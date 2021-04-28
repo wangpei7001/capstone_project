@@ -1,0 +1,8 @@
+numpy==1.18
+tensorflow
+keras 
+flask
+statsmodels
+scikit-learn
+pandas
+pytest
